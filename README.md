@@ -30,5 +30,7 @@ The features of our application are as follows.
 
 UML Diagram
 ![UML diagram](https://user-images.githubusercontent.com/53735437/224517063-271702aa-f4a1-4ede-9033-6bb5d488e7ba.jpeg)
+![Sysadmin Dshboard](https://user-images.githubusercontent.com/53735437/224517117-a064cfa5-4769-402d-abab-fdde41ad7ba1.jpeg)
+![ManageEnterprise (1)](https://user-images.githubusercontent.com/53735437/224517121-3beb0a72-7963-41ef-b9e5-050e73c97814.jpeg)
 
 
